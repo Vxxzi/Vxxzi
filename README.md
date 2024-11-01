@@ -17,5 +17,5 @@ Diving into the journey to becoming a SOC Analyst Tier 1, I’m driven by a pass
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Build and Configure a Firewall          | <a href="https://github.com/Vxxzi/Firewall/blob/main/README.md">Firewall Deployment and Configuration</a>|
-
+| DDoS Attack Detection and Response | <a href="https://github.com/Vxxzi/DDoS-Simulation">DDoS Simulation</a>|
 
