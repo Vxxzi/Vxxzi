@@ -1,4 +1,4 @@
-# Hello, I'm Vinusen 
+# Hi, I'm Vinusen Krishnapillai
 <a href="https://www.linkedin.com/in/vinusen-krishnapillai-138299222/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a Cyber Security and Digital Forensics Graduate passionate about defending against digital threats and uncovering insights from data. 
